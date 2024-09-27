@@ -1,0 +1,22 @@
+.httpButtons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.postButtons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+input {
+    margin: 5%;
+}
+
+button {
+    margin: 5%;
+}
