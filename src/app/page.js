@@ -89,6 +89,8 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+
+        <a href="/http">Test HTTP Requests</a>
       </footer>
     </div>
   );
