@@ -35,23 +35,34 @@ Footer {
   display: flex;
   flex-direction: row;
 }
-.newsLetter h1 {
-  font-size: 25px;
-  margin-bottom: 10px;
+.newsLetter h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
 }
-p {
-  margin-top: 20px;
-  font-size: 10px;
+.newsLetter {
+  padding-right: 50px;
+  font-size: 15px;
+}
+.linkbox h1 {
+  font-size: 20px;
+  margin-bottom: 15px;
 }
 .linkbox a{
-  font-size: 20px;
+  font-size: 18px;
 }
 .linkbox a:hover{
   color:rgb(231, 124, 58);
   text-decoration: underline;
 }
 .linkbox span{
-  padding: 25px;
+  padding: 15px;
+}
+.linkbox {
+  padding-left: 130px;
+}
+p {
+  margin-top: 20px;
+  font-size: 10px;
 }
 
 * {
