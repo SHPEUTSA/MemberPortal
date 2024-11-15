@@ -1,4 +1,11 @@
-
+.page{
+  justify-content: center;
+}
+.UEvents{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
 @media (prefers-color-scheme: dark) {
   .logo {
     filter: invert();
