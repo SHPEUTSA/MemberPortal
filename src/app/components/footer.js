@@ -36,7 +36,7 @@ export default function Footer(){
                 <span></span>
             </div>
         </div>
-        <p> © 2024 SHPE University of Texas at San Antonio. All Rights Reserved.</p>
+        <p className = "copyright"> © 2024 SHPE University of Texas at San Antonio. All Rights Reserved.</p>
         </div>
     )
 }
