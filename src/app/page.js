@@ -4,6 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div className={styles.page}>
+      <img src = "/Images/SHPE_logo_horiz_UTSA_PMS.jpg"/>
        <h3>Upcoming Events</h3>
         <div className = {styles.UEvents}>
         
