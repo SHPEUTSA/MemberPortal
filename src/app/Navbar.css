@@ -1,0 +1,10 @@
+.Navbutton {
+    padding: 10px;
+    position: fixed;
+    top: 100%;
+    width: 100%;
+    height: 3.5rem;
+    background-color: blue;
+    justify-content: center;
+    font-size: 15px;
+}

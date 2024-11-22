@@ -23,7 +23,23 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.NavBox {
+  color:#ffffff;
+  background-color: blue;
+  width: 100%;
+  padding: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 30px;
+  justify-content: center;
+  text-align: center;
+  font-style: bold;
+  font-size: x-large;
+  word-spacing: 4rem;
+}
+.NavBox a:hover{
+     color:rgb(0, 247, 255);
+ }
 * {
   box-sizing: border-box;
   padding: 0;
@@ -40,3 +56,5 @@ a {
     color-scheme: dark;
   }
 }
+
+
