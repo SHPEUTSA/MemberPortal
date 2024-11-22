@@ -23,6 +23,47 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+Footer {
+ color: white;
+ width: 100%;
+ background-color: rgb(6, 9, 64);
+ justify-content:center;
+ text-align: center;
+ padding: 15px;
+}
+.footerContainer{
+  display: flex;
+  flex-direction: row;
+}
+.newsLetter h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+.newsLetter {
+  padding-right: 50px;
+  font-size: 15px;
+}
+.linkbox h1 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+.linkbox a{
+  font-size: 18px;
+}
+.linkbox a:hover{
+  color:rgb(231, 124, 58);
+  text-decoration: underline;
+}
+.linkbox span{
+  padding: 15px;
+}
+.linkbox {
+  padding-left: 130px;
+}
+.copyright {
+  margin-top: 20px;
+  font-size: 10px;
+}
 .NavBox {
   color:#ffffff;
   background-color: blue;

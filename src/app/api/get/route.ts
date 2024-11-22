@@ -23,6 +23,7 @@ const data = [
   {
     name: "Jimmy",
     email: "neutron@gmail.com",
+    
     points: 0,
   },
   {
